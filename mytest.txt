@@ -1,0 +1,23 @@
+Dumping aCSRList:
+
+100 200 300
+1 2 2
+0 0 2 3
+
+10 20 30 40 50 60 70 80
+0 1 1 3 2 3 4 5
+0 2 4 7 8
+
+Dumping bCSRList:
+
+10 20 30 40 50 60 70 80
+0 1 1 3 2 3 4 5
+0 2 4 7 8
+
+100 200 300
+1 2 2
+0 0 2 3
+
+70
+
+Exception Error: Object is not in the list!
